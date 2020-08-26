@@ -14,6 +14,9 @@ public class Master {
 		유씨.끄기();
 		상아.켜기();
 		뮹자.오오오();
+		for(int i=0;i<args.length;i++) {
+			System.out.println(args[i]);
+		}
 	}
 
 }
